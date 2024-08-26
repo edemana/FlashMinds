@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.3.3",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@stripe/stripe-js": "^4.3.0",
+    "axios": "^1.7.4",
+    "firebase": "^10.13.0",
+    "framer-motion": "^11.3.30",
+    "next": "14.2.6",
+    "openai": "^4.56.0",
+    "pexels": "^1.4.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.6"
+    "stripe": "^16.8.0"
   },
   "devDependencies": {
     "eslint": "^8",
